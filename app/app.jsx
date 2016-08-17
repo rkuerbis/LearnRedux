@@ -7,7 +7,7 @@ $(document).foundation();
 
 // App css
 require('style!css!sass!applicationStyles')
-// 
+//
 // ReactDOM.render(
 //   <p>Boilerplate 3 Project</p>,
 //   document.getElementById('app')
@@ -15,4 +15,4 @@ require('style!css!sass!applicationStyles')
 
 require('./redux-example.jsx');
 
-require('./redux-todo-example.jsx');
+// require('./redux-todo-example.jsx');
